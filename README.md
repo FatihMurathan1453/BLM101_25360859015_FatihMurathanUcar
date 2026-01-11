@@ -1,4 +1,4 @@
-BLM0101 Dönem Projesi 
+BLM0101 Donem Projesi 
 
 Ogrenci Adi : Fatih Murathan
 
