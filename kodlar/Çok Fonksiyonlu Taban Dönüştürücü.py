@@ -138,4 +138,5 @@ while True:
 
     if taban == 16:                               #kullanıcıdan alınan taban 16 ise kodu buraya yönlendirme
         print(hex_sayiya_donusturucu(sayi))       #alınan taban 16 olduğu için sayıyı 16 tabanına çevirecek fonksiyonu çağırma
-        print(bellek_gosterimi(sayi, bitsayisi))  #sayının bellekte gösterimini göstermek için fonksiyon çağırmaü
+
+        print(bellek_gosterimi(sayi, bitsayisi))  #sayının bellekte gösterimini göstermek için fonksiyon çağırma
